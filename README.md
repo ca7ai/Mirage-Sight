@@ -1,7 +1,7 @@
 # 🛰️ Mirage-Sight
 ## **Autonomous Threat Intelligence & Active Deception**
 
-**MIRAGE-SIGHT** is a high-interaction threat intelligence feed powered by the [Mirage-HoneyPot](https://github.com/ca7ai/Mirage-HoneyPot) project. This repository serves as a verified source of Indicators of Compromise (IoCs) captured through a distributed network of deception sensors and traps deployed across the internet. 
+**MIRAGE-SIGHT** is a high-interaction threat intelligence feed powered by the [Mirage-HoneyPot](https://github.com/ca7ai/Mirage-HoneyPot) project. This repository serves as a source of Indicators of Compromise (IoCs) captured through a distributed network of deception sensors and traps deployed across the internet. 
 
 ---
 
