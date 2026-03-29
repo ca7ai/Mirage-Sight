@@ -1,6 +1,6 @@
 # Mirage-Sight Threat Intel
 
-| Date | IP Address | ASN | Hit Count | Inferred Type |
+| UTC Date | IP Address | ASN | Hit Count | Inferred Type |
 |---|---|---|---|---|
 | 2026-03-27 | [204.76.203.206](https://www.abuseipdb.com/check/204.76.203.206) | AS51396 Pfcloud UG | 29 | Unknown Agent Framework |
 | 2026-03-27 | [184.174.39.54](https://www.abuseipdb.com/check/184.174.39.54) | AS51167 Contabo GmbH | 2 | Unknown Agent Framework |
