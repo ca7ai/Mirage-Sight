@@ -3,6 +3,7 @@
 
 **MIRAGE-SIGHT** is a high-interaction threat intelligence feed powered by the [Mirage-HoneyPot](https://github.com/ca7ai/Mirage-HoneyPot) project. This repository serves as a source of Indicators of Compromise (IoCs) captured through a distributed network of deception sensors and traps deployed across the internet. 
 
+[![Threat Database](https://img.shields.io/badge/Latest_Intel-Mirage--Sight-228B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ca7ai/Mirage-Sight/tree/main/Threat-Intel/2026)
 ---
 
 ## 🏗️ Project Overview
