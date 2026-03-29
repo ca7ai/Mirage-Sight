@@ -101,3 +101,4 @@
 | 2026-03-25 | [103.70.167.44](https://www.abuseipdb.com/check/103.70.167.44) | AS135761 Userlinks Netcom Pvt. Ltd. | 1 | Unknown Agent Framework |
 | 2026-03-25 | [20.168.14.25](https://www.abuseipdb.com/check/20.168.14.25) | AS8075 Microsoft Corporation | 1 | Unknown Agent Framework |
 | 2026-03-25 | [195.178.110.31](https://www.abuseipdb.com/check/195.178.110.31) | AS48090 TECHOFF SRV LIMITED | 1 | Unknown Agent Framework |
+| 2026-03-29 | 127.0.0.1 | Unknown ASN | 1 | Unknown |
